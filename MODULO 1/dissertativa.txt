@@ -1,0 +1,18 @@
+Solução Dissertativa
+Na minha análise, o paradigma de programação mais indicado para desenvolver o sistema de gerenciamento da biblioteca é a Programação Orientada a Objetos (POO).
+
+Escolho esse paradigma porque ele permite organizar melhor as informações, já que podemos representar cada entidade do sistema (como livros, autores, usuários e empréstimos) como classes com seus próprios atributos e comportamentos. Isso facilita muito tanto na construção quanto na manutenção do sistema.
+
+Por exemplo, um livro tem título, autor e gênero. Um usuário tem nome, idade e um histórico de empréstimos. O empréstimo conecta o usuário ao livro e também tem informações como data de retirada e devolução. Esses relacionamentos e interações são muito bem representados na Programação Orientada a Objetos.
+
+Além disso, a POO oferece vantagens como:
+
+Reaproveitamento de código, porque podemos criar métodos e atributos que podem ser utilizados em várias partes do sistema;
+
+Facilidade de manutenção, já que as informações ficam organizadas dentro das classes, e qualquer alteração em uma não afeta diretamente as outras;
+
+Facilidade para evolução futura, caso o sistema precise crescer, com novas funcionalidades como reservas de livros, controle de multas ou relatórios;
+
+E também uma representação que faz mais sentido, pois conseguimos transformar os elementos do mundo real em objetos dentro do sistema.
+
+Por tudo isso, considero que a Programação Orientada a Objetos é a melhor escolha para esse projeto.
